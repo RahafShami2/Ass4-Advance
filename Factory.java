@@ -1,4 +1,5 @@
 public class ProtocolFactory {
-    Connection.getInstance;
+
+    Connection.getInstance(String connectionType);
  
-    }    
+}
